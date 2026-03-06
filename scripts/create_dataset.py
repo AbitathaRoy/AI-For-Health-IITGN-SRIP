@@ -24,7 +24,7 @@ patient_paths = [f.path for f in os.scandir(input_folder) if f.is_dir()]
 dataframes = []
 
 for i, path in enumerate(patient_paths):
-    # Define dict key for each patient
+    
     var_name = path[5:]
 
     # ---- 1. SIGNALS ------ 
