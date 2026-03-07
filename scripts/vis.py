@@ -1,16 +1,13 @@
 # vis.py
 
 import pandas as pd
-from datetime import datetime
 from scipy.signal import butter, filtfilt
-import numpy as np
 
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 import matplotlib.dates as mdates
 
 import argparse
-import os
 
 # Handle parsed directories
 parser = argparse.ArgumentParser(description="Visualize health data.")

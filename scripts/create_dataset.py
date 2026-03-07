@@ -1,7 +1,6 @@
 # create_dataset.py
 
 import pandas as pd
-from datetime import datetime
 from scipy.signal import butter, filtfilt
 import numpy as np
 
