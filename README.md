@@ -18,3 +18,6 @@ I declare my usage of GAI for solving this assignment, for the following purpose
 * For building the intuition beind applied CNN for the modelling question as a part of this assignment.
 
 I also declare that I have not used GAI to blatantly copy-paste code for this assignment. Instead, Google Search and documentation have been used for that purpose. My usage has been limited to my learning curve.
+
+Update (appended later):
+For the Neural Network part, I did have to take the help of GAI as writing code for 1D CNN and LSTM were very new to me and I got stuck a few times. :)
